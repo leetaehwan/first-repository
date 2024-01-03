@@ -1,2 +1,2 @@
 # first-reposity
-## git config
+hot fix
